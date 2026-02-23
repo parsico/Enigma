@@ -1,6 +1,6 @@
 # Enigma
 
-[Persian](Readme_fa.md))
+[Persian](Readme_fa.md)
 
 **English**
 
