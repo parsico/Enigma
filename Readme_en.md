@@ -2,7 +2,6 @@
 
 [Persian](Readme_fa.md)
 
-**English**
 
 Enigma is a cross‑platform messaging app built from a single codebase and delivered to Android, iOS, Windows, macOS, Linux, and Android TV.
 
