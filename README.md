@@ -2,7 +2,7 @@
 
 # Enigma
 
-[Persian](Readme_fa.md) · This file is the default README shown on GitHub.
+[Persian](Readme_fa.md)
 
 
 Enigma is a cross‑platform messaging app built from a single codebase and delivered to Android, iOS, Windows, macOS, Linux, and Android TV.
