@@ -1,5 +1,3 @@
-![Screen](Images/screen.png)
-
 # Enigma
 
 [Persian](Readme_fa.md)

@@ -1,6 +1,10 @@
+![Screen](Images/screen.png)
+
 # Enigma
 
-[English](Readme_en.md)
+[English](README.md)
+
+[![Releases](Images/github.png)](https://github.com/parsico/Enigma/releases)
 
 «Enigma» یک اپ پیام‌رسان چندسکویی با تمرکز بر امنیت، حریم خصوصی و تاب‌آوری است. این اپ برای اندروید، iOS، ویندوز، مک، لینوکس و Android TV ارائه می‌شود و طوری طراحی شده که در شرایط اختلال شدید اینترنت یا قطعی طولانی هم قابل استفاده باشد.
 
