@@ -2,9 +2,7 @@
 
 # Enigma
 
-[Persian](Readme_fa.md)
-
-[![Releases](Images/github.png)](https://github.com/parsico/Enigma/releases)
+[Persian](Readme_fa.md) · The default GitHub README is `README.md`.
 
 
 Enigma is a cross‑platform messaging app built from a single codebase and delivered to Android, iOS, Windows, macOS, Linux, and Android TV.
@@ -26,3 +24,7 @@ Enigma is a cross‑platform messaging app built from a single codebase and deli
 - Admin panel for moderation, announcements, upload/voice limits, and premium options.
 - Network mode selection (auto/mesh/matrix/bridge).
 - Notifications and typing indicators.
+
+<a href="https://github.com/parsico/Enigma/releases">
+  <img src="Images/github.png" alt="Releases" width="120" />
+</a>

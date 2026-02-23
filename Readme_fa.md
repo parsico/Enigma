@@ -2,9 +2,7 @@
 
 # Enigma
 
-[English](README.md)
-
-[![Releases](Images/github.png)](https://github.com/parsico/Enigma/releases)
+[English](README.md) · فایل پیش‌فرضی که گیت‌هاب نشان می‌دهد `README.md` است.
 
 «Enigma» یک اپ پیام‌رسان چندسکویی با تمرکز بر امنیت، حریم خصوصی و تاب‌آوری است. این اپ برای اندروید، iOS، ویندوز، مک، لینوکس و Android TV ارائه می‌شود و طوری طراحی شده که در شرایط اختلال شدید اینترنت یا قطعی طولانی هم قابل استفاده باشد.
 
@@ -32,3 +30,7 @@
 - پنل ادمین برای مدیریت، اعلان‌ها، محدودیت آپلود/ویس و گزینه‌های پرمیوم.
 - انتخاب حالت شبکه (auto/mesh/matrix/bridge).
 - اعلان‌ها و نشانگر تایپ کردن.
+
+<a href="https://github.com/parsico/Enigma/releases">
+  <img src="Images/github.png" alt="Releases" width="120" />
+</a>
