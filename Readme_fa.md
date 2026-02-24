@@ -1,6 +1,6 @@
 ![Screen](Images/screen.png)
 
-# Enigma
+# انیگما
 
 [English](README.md) 
 
