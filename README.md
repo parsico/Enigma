@@ -30,7 +30,6 @@ Enigma is available across major desktop and mobile platforms:
 - 🪟 **Windows**
 - 🍏 **macOS**
 - 🐧 **Linux**
-- 📺 **Android TV**
 
 The user experience is designed to be consistent across all platforms.
 
