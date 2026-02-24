@@ -1,6 +1,6 @@
 # 🔐 Enigma Messenger
 
-[🇮🇷 فارسی](README_fa.md)
+[🇮🇷 فارسی](Readme_fa.md)
 
 ![Enigma Screenshot](Images/screen.png)
 
