@@ -25,6 +25,8 @@
 - انتخاب حالت شبکه (auto/mesh/matrix/bridge).
 - اعلان‌ها و نشانگر تایپ کردن.
 
-<a href="https://github.com/parsico/Enigma/releases">
-  <img src="Images/github.png" alt="Releases" width="140" />
-</a>
+<div dir="rtl">
+  <a href="https://github.com/parsico/Enigma/releases">
+    <img src="Images/github.png" alt="Releases" width="140" />
+  </a>
+</div>
