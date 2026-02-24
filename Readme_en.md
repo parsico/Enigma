@@ -26,5 +26,5 @@ Enigma is a cross‑platform messaging app built from a single codebase and deli
 - Notifications and typing indicators.
 
 <a href="https://github.com/parsico/Enigma/releases">
-  <img src="Images/github.png" alt="Releases" width="120" />
+  <img src="Images/github.png" alt="Releases" width="140" />
 </a>
