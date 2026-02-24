@@ -1,6 +1,6 @@
 ![Screen](Images/screen.png)
 
-# Enigma
+# Enigma Messenger
 
 [Persian](Readme_fa.md)
 
