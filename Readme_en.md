@@ -1,8 +1,15 @@
 ![Screen](Images/screen.png)
 
+![Release](https://img.shields.io/github/v/release/parsico/Enigma)
+![License](https://img.shields.io/github/license/parsico/Enigma)
+![Stars](https://img.shields.io/github/stars/parsico/Enigma)
+![Issues](https://img.shields.io/github/issues/parsico/Enigma)
+![Last Commit](https://img.shields.io/github/last-commit/parsico/Enigma)
+![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS%20%7C%20Windows%20%7C%20macOS%20%7C%20Linux-blue)
+
 # Enigma Messenger
 
-[Persian](Readme_fa.md) · The default GitHub README is `README.md`.
+[Persian](Readme_fa.md) 
 
 
 Enigma is a cross‑platform messaging app built from a single codebase and delivered to Android, iOS, Windows, macOS, Linux, and Android TV.
