@@ -1,6 +1,6 @@
 ![Screen](Images/screen.png)
 
-# انیگما
+# پیامرسان انیگما
 
 [English](README.md) 
 
