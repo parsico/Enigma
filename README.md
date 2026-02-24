@@ -1,30 +1,129 @@
-![Screen](Images/screen.png)
+# 🔐 Enigma Messenger
 
-# Enigma Messenger
+[🇮🇷 فارسی](README.fa.md)
 
-[Persian](Readme_fa.md)
+![Enigma Screenshot](Images/screen.png)
 
+---
 
-Enigma is a cross‑platform messaging app built from a single codebase and delivered to Android, iOS, Windows, macOS, Linux, and Android TV.
+## 🚀 Introduction
 
+**Enigma Messenger** is a cross-platform messaging application focused on **security**, **privacy**, and **resilient communication in difficult network conditions**.
 
-**App Features**
-- Accounts with display name, unique ID, profile photo, and bio.
-- Direct messages plus public and private groups (rooms).
-- Channels with join/leave flows and verified/read‑only options.
-- Rich messaging: replies, forwards, reactions, pinned messages, and editing.
-- File sharing with drag & drop, previews, and downloads.
-- Media support for images, video, audio, and voice messages.
-- GIF search and recent GIF history.
-- Stories: upload, view, like, reply, and delete.
-- Chat and in‑chat search, plus hashtag results.
-- Contacts and saved users, with quick search and block actions.
-- App lock with PIN or pattern.
-- Device management and “log out other devices”.
-- Admin panel for moderation, announcements, upload/voice limits, and premium options.
-- Network mode selection (auto/mesh/matrix/bridge).
-- Notifications and typing indicators.
+It is designed to remain functional even during severe internet disruptions or long-term outages.
+
+---
+
+## 🖥 Supported Platforms
+
+- 📱 Android  
+- 🍎 iOS  
+- 🪟 Windows  
+- 🍏 macOS  
+- 🐧 Linux  
+- 📺 Android TV  
+
+---
+
+## ✨ Features
+
+### 👤 User Profile
+- Display name  
+- Unique ID  
+- Profile picture  
+- Bio  
+
+### 💬 Messaging
+- Private messages (DM)  
+- Public & private groups (Rooms)  
+- Channels with:
+  - Join/Leave capability  
+  - ✅ Verified option  
+  - 📖 Read-only mode  
+
+### 🚀 Advanced Messaging
+- Reply to messages  
+- Forward messages  
+- React with emoji  
+- 📌 Pin messages  
+- ✏️ Edit messages  
+
+### 📎 File & Media Sharing
+- Drag & Drop upload  
+- File preview & download  
+- 🖼 Images  
+- 🎥 Videos  
+- 🎵 Audio  
+- 🎙 Voice messages  
+
+### 🎞 GIF Support
+- GIF search  
+- Recent GIF history  
+
+### 📖 Stories
+- Upload  
+- View  
+- ❤️ Like  
+- Reply  
+- Delete  
+
+### 🔎 Search
+- Global chat search  
+- In-chat search  
+- Hashtag results  
+
+### 🔐 Privacy & Security
+- Save contacts  
+- Quick search  
+- 🚫 Block users  
+- 🔒 App lock (PIN or Pattern)  
+- 📱 Device management  
+- Logout from other devices  
+
+### 🔔 Notifications
+- Push notifications  
+- Typing indicators  
+
+---
+
+## 🌐 Network Modes
+
+- `auto` – Automatically selects best mode  
+- `mesh` – Peer-to-peer communication  
+- `matrix` – Federated server-based mode  
+- `bridge` – Hybrid network mode  
+
+---
+
+## 🛠 Admin Panel
+
+- System management  
+- 📢 Announcements  
+- Upload & voice restrictions  
+- 💎 Premium feature management  
+
+---
+
+## 📥 Installation
+
+Download the latest version:
 
 <a href="https://github.com/parsico/Enigma/releases">
   <img src="Images/github.png" alt="Releases" width="140" />
 </a>
+
+1. Download your platform version  
+2. Install the app  
+3. Create an account or login  
+4. Start messaging 🎉  
+
+---
+
+## 👥 Contributors
+
+- Parsico Team  
+
+---
+
+## 📄 License
+
